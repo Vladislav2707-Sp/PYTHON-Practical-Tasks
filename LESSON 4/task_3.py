@@ -43,5 +43,5 @@ print(f"У тексті найчастіше зустрічається симв
 
 
 
-# max_return = my_dict.setdefault(i , max(my_dict.values))
+max_return = my_dict.setdefault(i , max(my_dict.values()))
 # print("У тексті найчастіше зустрічається символ \'{max_retun}\'")
